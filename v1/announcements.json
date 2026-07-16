@@ -1,5 +1,11 @@
-{
-  "version": 1,
-  "lastUpdated": "2026-07-04T20:00:00Z",
-  "announcements": []
-}
+[
+  {
+    "id": "a_1784178815336",
+    "title": "Testing",
+    "message": "",
+    "category": "General",
+    "version": null,
+    "publishDate": "2026-07-16",
+    "priority": "normal"
+  }
+]
